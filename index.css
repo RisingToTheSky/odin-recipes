@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: grey;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    background-color: red;
+    box-shadow: red;
+}
+.img{
+    width: 500px;
+    height: 300px;
+    margin: 50px 50px 50px 0px;
+}
+.links{
+   border: 1px solid black;
+   padding: 20px;
+   width: 300px;
+   background-color: pink; 
+}
